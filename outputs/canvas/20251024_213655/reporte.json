@@ -1,0 +1,136 @@
+{
+  "image": "canvas:20251024_213655",
+  "output_dir": "outputs/canvas/20251024_213655",
+  "generated_at": "2025-10-24T21:36:55.719763Z",
+  "raw_sequence": [
+    "3",
+    "div",
+    "5",
+    "s",
+    "+",
+    "x",
+    "y"
+  ],
+  "final_expression": "((3**(s))/(5))+xy",
+  "digits": [
+    {
+      "index": 0,
+      "label": "3",
+      "bbox": {
+        "x": 71,
+        "y": 162,
+        "w": 44,
+        "h": 88
+      },
+      "center": {
+        "x": 93,
+        "y": 206
+      },
+      "source": "model",
+      "original_path": "outputs/canvas/20251024_213655/digits/00_3_original.png",
+      "processed_path": "outputs/canvas/20251024_213655/digits/00_3_processed.png"
+    },
+    {
+      "index": 1,
+      "label": "div",
+      "bbox": {
+        "x": 41,
+        "y": 274,
+        "w": 109,
+        "h": 7
+      },
+      "center": {
+        "x": 95,
+        "y": 277
+      },
+      "source": "division",
+      "original_path": "outputs/canvas/20251024_213655/digits/01_div_original.png",
+      "processed_path": "outputs/canvas/20251024_213655/digits/01_div_processed.png"
+    },
+    {
+      "index": 2,
+      "label": "5",
+      "bbox": {
+        "x": 80,
+        "y": 305,
+        "w": 44,
+        "h": 71
+      },
+      "center": {
+        "x": 102,
+        "y": 340
+      },
+      "source": "model",
+      "original_path": "outputs/canvas/20251024_213655/digits/02_5_original.png",
+      "processed_path": "outputs/canvas/20251024_213655/digits/02_5_processed.png"
+    },
+    {
+      "index": 3,
+      "label": "s",
+      "bbox": {
+        "x": 111,
+        "y": 119,
+        "w": 29,
+        "h": 42
+      },
+      "center": {
+        "x": 125,
+        "y": 140
+      },
+      "source": "model",
+      "original_path": "outputs/canvas/20251024_213655/digits/03_s_original.png",
+      "processed_path": "outputs/canvas/20251024_213655/digits/03_s_processed.png"
+    },
+    {
+      "index": 4,
+      "label": "+",
+      "bbox": {
+        "x": 176,
+        "y": 248,
+        "w": 35,
+        "h": 65
+      },
+      "center": {
+        "x": 193,
+        "y": 280
+      },
+      "source": "model",
+      "original_path": "outputs/canvas/20251024_213655/digits/04_+_original.png",
+      "processed_path": "outputs/canvas/20251024_213655/digits/04_+_processed.png"
+    },
+    {
+      "index": 5,
+      "label": "x",
+      "bbox": {
+        "x": 232,
+        "y": 240,
+        "w": 33,
+        "h": 74
+      },
+      "center": {
+        "x": 248,
+        "y": 277
+      },
+      "source": "model",
+      "original_path": "outputs/canvas/20251024_213655/digits/05_x_original.png",
+      "processed_path": "outputs/canvas/20251024_213655/digits/05_x_processed.png"
+    },
+    {
+      "index": 6,
+      "label": "y",
+      "bbox": {
+        "x": 282,
+        "y": 244,
+        "w": 41,
+        "h": 79
+      },
+      "center": {
+        "x": 302,
+        "y": 283
+      },
+      "source": "model",
+      "original_path": "outputs/canvas/20251024_213655/digits/06_y_original.png",
+      "processed_path": "outputs/canvas/20251024_213655/digits/06_y_processed.png"
+    }
+  ]
+}
